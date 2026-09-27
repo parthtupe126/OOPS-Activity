@@ -1,0 +1,8 @@
+# C++ Executables and Build Artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+.vscode/
