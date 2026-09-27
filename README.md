@@ -96,16 +96,3 @@
 - `code_15.cpp` - Payment gateway system supporting Card, UPI, NetBanking, and Wallet payments.
 - `code_16.cpp` - Polymorphic payroll system with Permanent, Contract, and Freelance employees.
 
----
-
-## How to Run
-
-Compile any program using g++ with C++17 support:
-
-```bash
-# To compile any program:
-g++ -std=c++17 "path/to/file.cpp" -o output
-
-# To run the compiled program:
-./output
-```
